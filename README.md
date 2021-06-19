@@ -1,1 +1,1 @@
-# prayer-valuables
+# prayer-valuables.com
