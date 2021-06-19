@@ -1,0 +1,146 @@
+html {
+scroll-behavior: smooth;
+}
+
+#section-one {
+display: inline-block;
+background: #F5F5F5;
+height: 700px;
+width: 100%;
+}
+
+#section-two {
+display: inline-block;
+background: #d5e1f5;
+height: 700px;
+width: 100%;
+}
+
+navigation {
+font-variant: small-caps;
+background: #262626;
+overflow: hidden;
+position: fixed;
+width: 100%;
+top: 0;
+}
+
+
+ul {
+list-style: none;
+padding: 0;
+margin: 0;
+}
+
+li {
+float: left;
+}
+
+a {
+font-family: palatino linotype;
+text-transform: ;
+display: block;
+color: #F3F3F3;
+text-decoration: none;
+font-weight: light;
+margin: 100%px;
+padding: 20px;
+}
+
+body {
+padding: 0;
+font-family: palatino linotype;
+margin: 0;
+}
+
+.img-information {
+padding-right: 200px;
+font-variant: small-caps;
+width: 48%;
+padding-top: 210px;
+float: right;
+}
+
+.img-information p {
+font-family: palatino linotype;
+font-size: 15px;
+padding: 10px 0px 20px;
+width: 60%;
+}
+
+.img-sandra {
+padding-top: 210px;
+float: left;
+padding-left: 220px;
+}
+
+
+.picBox {
+
+
+float: left;
+}
+
+
+.img-sandra {
+
+border-radius: 5px;
+
+}
+
+#img-point {
+padding-top: 149px;
+width: 26%;
+padding-left: 118px;
+}
+
+#img-information {
+padding-left: 100px;
+width: 40%;
+padding-top: 120px;
+float: left;
+}
+
+#img-information p {
+font-family: palatino linotype;
+font-size: 15px;
+padding: 10px 0px 20px;
+width: 70%;
+}
+
+#note {
+color: #ba1209;
+}
+
+
+
+
+
+
+
+
+
+
+
+#footer {
+font-family: palatino linotype;
+font-variant: small-caps;
+font-size: 12px;
+padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
